@@ -1,0 +1,9 @@
+.history
+node_modules
+.idea
+.vscode
+.env
+
+dist/*
+ormconfig.json
+config/*.json
